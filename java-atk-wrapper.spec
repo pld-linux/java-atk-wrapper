@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.java
 Summary:	Java ATK Wrapper is a implementation of ATK by using JNI technic
 Summary(pl.UTF-8):	Java ATK Wrapper - implementacja ATK wykorzystująca JNI
 Name:		java-atk-wrapper
