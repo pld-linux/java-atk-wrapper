@@ -1,12 +1,12 @@
 Summary:	Java ATK Wrapper is a implementation of ATK by using JNI technic
 Summary(pl.UTF-8):	Java ATK Wrapper - implementacja ATK wykorzystująca JNI
 Name:		java-atk-wrapper
-Version:	0.36.0
+Version:	0.38.0
 Release:	1
 License:	LGPL v2.1+
 Group:		Libraries/Java
-Source0:	http://ftp.gnome.org/pub/GNOME/sources/java-atk-wrapper/0.36/%{name}-%{version}.tar.xz
-# Source0-md5:	1b87c4df27cc411f0b26cb97eb2731c2
+Source0:	http://ftp.gnome.org/pub/GNOME/sources/java-atk-wrapper/0.38/%{name}-%{version}.tar.xz
+# Source0-md5:	3574151e35922c25e3425e9c5b7de8c5
 URL:		https://wiki.gnome.org/Accessibility/JavaAtkWrapper
 BuildRequires:	GConf2-devel >= 2.0
 BuildRequires:	at-spi2-atk-devel >= 2.33.1
